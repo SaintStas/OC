@@ -1,0 +1,24 @@
+﻿Построение начато 11.05.2017 8:22:36.
+     1>Проект "D:\OC\laba6\OC4\OC4\OC4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OC4.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OC4.cpp
+         OC4.cpp
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(237): warning C4101: ps: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(245): warning C4101: hPen: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(246): warning C4101: rp: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(243): warning C4101: hFont: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(242): warning C4101: lf: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(244): warning C4101: hBrush: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(238): warning C4101: r: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(384): warning C4101: ps: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(383): warning C4101: hBrush: неиспользованная локальная переменная
+     1>d:\oc\laba6\oc4\oc4\oc4.cpp(382): warning C4101: hdc: неиспользованная локальная переменная
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\OC4.res" OC4.rc 
+     1>resource.h(33): fatal error RC1004: unexpected end of file found
+         
+     1>Построение проекта "D:\OC\laba6\OC4\OC4\OC4.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:02.85
